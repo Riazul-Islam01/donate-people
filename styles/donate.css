@@ -1,0 +1,32 @@
+* {
+  margin: 0px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* header and navigation styles */
+.header{
+  background-image: url(/media/images/donation0.jpg);
+  background-repeat: no-repeat;
+  background-position: 100%;
+  background-position: center;
+}
+
+.nav-title{
+  text-align: center;
+}
+.nav-header{
+  padding:10px;
+}
+.nav-text{
+  padding: 10px;
+}
+.btn-primary{
+ border-radius: 5px;
+ background-color: #FD6E0A;
+}
+
+/* banner styles */
+.banner{
+  background-image: url(/media/images/donation0.jpg);
+  display: flex;
+}
